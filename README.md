@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+	<br>
+	<br>
+	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
+	<br>
+	<br>
+</div>
 
 <!--
 **not-matthias/not-matthias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
