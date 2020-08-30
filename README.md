@@ -10,19 +10,19 @@ I have a passion for programming and software security. I’ve been using many d
 
 <div align="center">
   <a aria-label="Github" href="https://github.com/not-matthias">
-    <img src="assets/github.svg" />
+    <img src="./assets/github.svg" />
   </a>
 
   <a aria-label="Twitter" href="https://twitter.com/not_matthias">
-    <img src="assets/twitter.svg" />
+    <img src="./assets/twitter.svg" />
   </a>
 
   <a aria-label="Blog" href="https://not-matthias.github.io">
-    <img src="assets/globe.svg" />
+    <img src="./assets/globe.svg" />
   </a>
 
   <!-- <a aria-label="Mail" href="mailto:26800596+not-matthias@users.noreply.github.com">
-    <img src="assets/email.svg" />
+    <img src="./assets/email.svg" />
   </a> -->
 </div>
 
