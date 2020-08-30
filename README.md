@@ -1,10 +1,33 @@
+<div>
+
+<h1 align="center">Hi, I'm Matthias.</h1>
+    
 <div align="center">
-	<br>
-	<br>
-	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
-	<br>
-	<br>
+I have a passion for programming and software security. I’ve been using many different technologies and I love exploring new ones. Currently, most of my projects are written in Rust as it’s a highly performant, safe and modern language.
 </div>
+
+<br />
+
+<div align="center">
+  <a aria-label="Github" href="https://github.com/not-matthias">
+    <img src="assets/github.svg" />
+  </a>
+
+  <a aria-label="Twitter" href="https://twitter.com/not_matthias">
+    <img src="assets/twitter.svg" />
+  </a>
+
+  <a aria-label="Blog" href="https://not-matthias.github.io">
+    <img src="assets/globe.svg" />
+  </a>
+
+  <!-- <a aria-label="Mail" href="mailto:26800596+not-matthias@users.noreply.github.com">
+    <img src="assets/email.svg" />
+  </a> -->
+</div>
+
+</div>
+
 
 <!--
 **not-matthias/not-matthias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
